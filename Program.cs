@@ -30,14 +30,6 @@
         user7.CalisanBilgileri();
         user8.CalisanBilgileri();
 
-        
-
-        
-
-
-
-
-
     }
 }
 
